@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icons_sound_off.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icons_sound_off.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_info.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_placeholder_image.jpg.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\placeholder_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_bottom_nav_item_background.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\bottom_nav_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_image_list.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_image_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\raw_sound_file.mp3.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\raw\\sound_file.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_sound_on.gif.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\sound_on.gif"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fire_warning_app-merged_res-32:/raw_female_voice.mp3.flat",
+        "source": "com.example.fire_warning_app-main-34:/raw/female_voice.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_ui_main.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_ui_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_sound.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_fire96.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\fire96.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_sound_background.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\sound_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_bottom.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_firehyd.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_firehyd.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icons_sound_on.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icons_sound_on.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_home.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_home.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\raw_sound_alarm.mp3.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\raw\\sound_alarm.mp3"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_cam.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_cam.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_fire48.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\fire48.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_setting.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable_icon_home_50.png.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable\\icon_home_50.png"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\thanh\\.gradle\\daemon\\7.5\\com.example.fire_warning_app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]

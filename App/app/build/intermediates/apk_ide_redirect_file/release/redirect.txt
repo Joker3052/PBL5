@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../../../../../../1apk/FireApk/release/output-metadata.json

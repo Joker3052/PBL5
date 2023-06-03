@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.4.2" type="incidents">
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`ImageListActivity` must extend android.app.Activity">
+        <location
+            file="${:app*release*sourceProvider*0*manifest*0}"
+            line="28"
+            column="27"
+            startOffset="1302"
+            endLine="28"
+            endColumn="45"
+            endOffset="1320"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`Info` must extend android.app.Activity">
+        <location
+            file="${:app*release*sourceProvider*0*manifest*0}"
+            line="31"
+            column="27"
+            startOffset="1409"
+            endLine="31"
+            endColumn="32"
+            endOffset="1414"/>
+    </incident>
+
+    <incident
+        id="Instantiatable"
+        severity="fatal"
+        message="`UI_main` must extend android.app.Activity">
+        <location
+            file="${:app*release*sourceProvider*0*manifest*0}"
+            line="34"
+            column="27"
+            startOffset="1503"
+            endLine="34"
+            endColumn="35"
+            endOffset="1511"/>
+    </incident>
+
+</incidents>

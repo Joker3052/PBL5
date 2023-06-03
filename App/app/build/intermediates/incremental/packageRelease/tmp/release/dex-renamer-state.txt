@@ -1,0 +1,10 @@
+#Sun May 28 21:34:13 ICT 2023
+base.2=D\:\\1_PBL5\\1kotlinDemo\\Fire_Warning_App_19_05_23\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes3.dex
+path.2=classes3.dex
+base.1=D\:\\1_PBL5\\1kotlinDemo\\Fire_Warning_App_19_05_23\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\1_PBL5\\1kotlinDemo\\Fire_Warning_App_19_05_23\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

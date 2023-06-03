@@ -1,0 +1,18 @@
+D:\1_PBL5\1kotlinDemo\Fire_Warning_App_19_05_23\app\src\main\AndroidManifest.xml:28: Error: ImageListActivity must extend android.app.Activity [Instantiatable]
+            android:name=".ImageListActivity"
+                          ~~~~~~~~~~~~~~~~~~
+D:\1_PBL5\1kotlinDemo\Fire_Warning_App_19_05_23\app\src\main\AndroidManifest.xml:31: Error: Info must extend android.app.Activity [Instantiatable]
+            android:name=".Info"
+                          ~~~~~
+D:\1_PBL5\1kotlinDemo\Fire_Warning_App_19_05_23\app\src\main\AndroidManifest.xml:34: Error: UI_main must extend android.app.Activity [Instantiatable]
+            android:name=".UI_main"
+                          ~~~~~~~~
+
+   Explanation for issues of type "Instantiatable":
+   Activities, services, broadcast receivers etc. registered in the manifest
+   file (or for custom views, in a layout file) must be "instantiatable" by
+   the system, which means that the class must be public, it must have an
+   empty public constructor, and if it's an inner class, it must be a static
+   inner class.
+
+3 errors, 0 warnings
